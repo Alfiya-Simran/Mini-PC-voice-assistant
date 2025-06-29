@@ -1,4 +1,4 @@
-# 🧠 Ana - AI Voice Assistant
+# 🧠 Ana - AI Voice Assistant for PC
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 ![Tech](https://img.shields.io/badge/Built%20With-Python%20%7C%20PyAutoGUI%20%7C%20SpeechRecognition%20%7C%20Tkinter-blue)
 
