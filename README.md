@@ -4,6 +4,8 @@
 
 Ana is a smart desktop voice assistant built using Python. It listens to your commands and performs real-time desktop automation—from typing and browsing to controlling slides, checking weather, playing music, and more.
 
+---
+
 ## 🚀 Features
 
 - 🎙️ Speech-to-text dictation
@@ -16,6 +18,8 @@ Ana is a smart desktop voice assistant built using Python. It listens to your co
 - 📰 Live news headlines
 - 🖱️ Mouse position & screenshot capture
 
+---
+
 ## 🛠️ Tech Stack
 
 - `SpeechRecognition`
@@ -26,6 +30,8 @@ Ana is a smart desktop voice assistant built using Python. It listens to your co
 - `Spotify API`
 - `OpenWeatherMap API`
 - `NewsAPI`
+
+---
 
 ## 📦 Setup Instructions
 
@@ -45,7 +51,11 @@ pip install -r requirements.txt
 python assistant.py
 ```
 
+---
+
 **⚠️ Make sure you have chromedriver installed and added to PATH for browser automation.**
+
+---
 
 ## 🔐 API Keys Required
 **Update the script with your own keys:**
@@ -54,5 +64,19 @@ python assistant.py
 2. NewsAPI
 3. Spotify Developer Account
 
+---
+
 ## 📸 UI
 A floating mic icon stays always on top—click it to activate voice listening.
+
+---
+
+## 📬 Contact
+For queries, feedback, or suggestions:
+
+📧 alfiyasimran05@gmail.com
+
+---
+
+## 📝 License
+This project is licensed under the MIT License.
