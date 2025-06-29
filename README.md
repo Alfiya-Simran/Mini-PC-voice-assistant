@@ -1,6 +1,6 @@
 # 🧠 Ana - AI Voice Assistant
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
-![Tech](https://img.shields.io/badge/built%20with-React%20%7C%20Tailwind%20%7C%20Firebase-blue)
+![Tech](https://img.shields.io/badge/Built%20With-Python%20%7C%20PyAutoGUI%20%7C%20SpeechRecognition%20%7C%20Tkinter-blue)
 
 Ana is a smart desktop voice assistant built using Python. It listens to your commands and performs real-time desktop automation—from typing and browsing to controlling slides, checking weather, playing music, and more.
 
