@@ -37,7 +37,7 @@ Ana is a smart desktop voice assistant built using Python. It listens to your co
 
 **1. Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/voice-assistant.git
+   git clone https://github.com/Alfiya-Simran/Mini-PC-voice-assistant.git
    cd voice-assistant
    ```
 
@@ -63,11 +63,6 @@ python assistant.py
 1. OpenWeatherMap
 2. NewsAPI
 3. Spotify Developer Account
-
----
-
-## 📸 UI
-A floating mic icon stays always on top—click it to activate voice listening.
 
 ---
 
